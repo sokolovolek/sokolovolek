@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sokolovolek
+- 👋 Hi, I’m Olek
 - 👀 I’m interested in Fullstack/Chrome Extension development
 - 🌱 I have rich experience in React.js/Next.js and Node.js
 - 💞️ I’m looking to collaborate on the website development
