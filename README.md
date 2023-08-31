@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sokolovolek
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Node.js, Laravel... Backend development techs
+- 👀 I’m interested in Fullstack/Chrome Extension development
+- 🌱 I have rich experience in React.js/Next.js and Node.js
 - 💞️ I’m looking to collaborate on the website development
 
 <!---
